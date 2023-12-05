@@ -14,6 +14,9 @@ export default function Home() {
         </p>
       </div>
 
+{/* Let's make a giant image here with link learning to code */}
+
+
 
 
 {/* bottom of the page columns with button areas */}
